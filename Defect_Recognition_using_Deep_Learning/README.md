@@ -1,6 +1,4 @@
-[GroupF_BIA667_FinalProject_Report.pdf](https://github.com/vickymiki/Deep_Learning_Coursework/files/9641933/GroupF_BIA667_FinalProject_Report.pdf)
-
-
-[embed]http://github.com/vickymiki/Deep_Learning_Coursework/files/9641933/GroupF_BIA667_FinalProject_Report.pdf[/embed]
-
-https://docs.google.com/viewer?url=${https://github.com/vickymiki/Deep_Learning_Coursework/files/9641933/GroupF_BIA667_FinalProject_Report.pdf}
+## Defect Recognition using Deep Learning 
+- Preprocessing of image data using data augmentation
+- Created a Convolutional neural network model on images to find defects
+- Evaluated comparison between CNN and VGG-16 autoencoder output
