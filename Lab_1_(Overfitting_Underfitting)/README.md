@@ -19,5 +19,6 @@ For Q1 and Q2, we use RMSprop (or any other optimizer you prefer). Now let's tra
 - SGD
 - Adagrad
 - RMSProp
-- Adam
-Plot the evaluation loss and accuracy curves for each optimizer.
+- Adam 
+
+<br> Plot the evaluation loss and accuracy curves for each optimizer.
